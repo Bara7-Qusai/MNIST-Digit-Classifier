@@ -6,7 +6,7 @@ This project demonstrates a deep learning model built with PyTorch to classify h
 - **Dataset**: MNIST (28x28 grayscale images, digits 0–9)
 - **Architecture**: Fully Connected Neural Network (3 hidden layers)
 - **Preprocessing**: Normalization and conversion to tensors
-- **Accuracy Achieved**: Up to **98.14%**
+- **Accuracy Achieved**: Up to **96.97%**
 - **Framework**: PyTorch
 
 ### Features
